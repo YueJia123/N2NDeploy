@@ -1,0 +1,1 @@
+hn2n-master目录下是Windows下n2n的编译源码，包含了n2n_v1和n2n_v2的supernode和edge
